@@ -16,9 +16,10 @@ Realizado por:
 
 **Natalia Arancibia**
 
+---------------------------
 
 
-**DEMO DEL PRODUCTO: ** 
+**DEMO DEL PRODUCTO** 
 -  https://mickequeen.github.io/movieRumble  (Pages)
 -  https://github.com/mickequeen/movieRumble.git
 -------------------------------------------------------------
@@ -60,13 +61,14 @@ Proveeremos la información más completa de cada producción cinematográfica, 
 # FORMATO A ENTREGAR: 
 Producto web. Versión mobile y escritorio.
 
-# TRABAJO PREVIO:  SKETCHES
+# TRABAJO PREVIO: SKETCHES
 
-Sketch primera vista del producto:
+Sketches elaborados en el proyecto:
+
 ![Primera vista Sketch] (https://i.imgur.com/a/zJfmR)
 
 Sketch Modal para Login:
-![Login Sketch](/modal.jpg)
+![Login Sketch] (https://i.imgur.com/a/pVgZy)
 
 
 
