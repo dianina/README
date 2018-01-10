@@ -1,6 +1,6 @@
-PROYECTO:   MovieRumble v.1.0 
+PROYECTO:   MovieRumble v.1.0     **(Enero de 2017)**
 =============================
-**(Enero de 2017)**
+
 
 
 Realizado por:
@@ -17,8 +17,9 @@ Realizado por:
 **Natalia Arancibia**
 
 
-DEMO DEL PRODUCTO:  https://mickequeen.github.io/movieRumble  (Pages)
-										https://github.com/mickequeen/movieRumble.git
+DEMO DEL PRODUCTO:  
+-  https://mickequeen.github.io/movieRumble  (Pages)
+-  https://github.com/mickequeen/movieRumble.git
 -------------------------------------------------------------
 
 PRODUCTO:
@@ -61,7 +62,7 @@ Producto web. Versión mobile y escritorio.
 # TRABAJO PREVIO:  SKETCHES
 
 Sketch primera vista del producto:
-![Primera vista Sketch](/primeravista.jpeg)
+![Primera vista Sketch](https://imgur.com/a/zJfmR)
 
 Sketch Modal para Login:
 ![Login Sketch](/modal.jpg)
