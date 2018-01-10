@@ -40,6 +40,9 @@ Los usuarios tendrán a su alcance, esta información de varias formas:
 
 - **Foro**
 
+
+
+
 En este sitio web, el usuario puede crear su sesión con su respectivo login, y desde allí podrá relacionarse con los demás usuarios.
 
 # COMO VALIDAMOS EL PRODUCTO:
@@ -75,6 +78,8 @@ Sketches elaborados en el proyecto:
 
 
 
+
+
 # FLUJO DE LA APLICACION
 
 
@@ -92,7 +97,12 @@ VISTA USUARIO REGISTRADO
 ![Menu Login] (https://i.imgur.com/a/PGOgO)
 
 Ya ingresado a su sesión, el usuario podrá acceder a la funcionalidad completa de la página:
-- Información seleccionada sobre las diferentes "Battles" entre películas (vs).
+- Información seleccionada sobre las diferentes "Battles" entre películas, año de realización, reseña del título (vs).
+- Calificación por medio de estrellas
+- Acceso a foro
+- Temáticas y Universos cinematográficos
+
+
 
 VISTA USUARIO REGISTRADO CON UTILIDADES DEL PRODUCTO
 ----------------------------------------------------
