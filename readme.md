@@ -3,8 +3,8 @@ PROYECTO:   MovieRumble v.1.0
 (Enero de 2017)
 ===============
 
-Autoras:
---------
+Realizado por:
+--------------
 **Carol Martínez**
 
 
@@ -16,6 +16,9 @@ Autoras:
 
 **Natalia Arancibia**
 
+
+DEMO DEL PRODUCTO:  [https://mickequeen.github.io/movieRumble] https://mickequeen.github.io/movieRumble
+-------------------------------------------------------------
 
 PRODUCTO:
 =========
