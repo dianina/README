@@ -1,4 +1,5 @@
-PROYECTO:   MovieRumble v.1.0 (Enero de 2017)
+PROYECTO:   MovieRumble v.1.0 
+Enero de 2017)
 =============================================
 
 Autoras:
@@ -94,7 +95,8 @@ ORGANIZACION
 
 - Definir perfiles en los integrantes del equipo: UX DESIGNER -FRONT END
 
-# DIVISION DEL TRABAJO
+DIVISION DEL TRABAJO
+--------------------
 
 **Perfil por alumna**
 
