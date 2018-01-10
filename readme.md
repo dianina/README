@@ -28,22 +28,22 @@ PRODUCTO:
 =========
 
 Desarrollamos un producto digital que ayude a los amantes de las casas editoriales Marvel y DC, a obtener información sobre sus producciones cinematográficas. Como los personajes e historias homólogas de cada casa editorial, siempre han generado diferencias entre sus fans, nuestro objetivo es contraponer la información contextualizada y filtrada de cada historia.
+
+En este sitio web, el usuario puede crear su sesión con su respectivo login, y desde allí podrá relacionarse con los demás usuarios.
+
 Los usuarios tendrán a su alcance, esta información de varias formas:
 
 - **Ranking**: Cada usuario puede participar calificando la película según su criterio.
 
 - **Foro**: Para generar debate y generar las "battles" (discusiones eternas), los usuarios podrán exponer sus ideas. Entre más battles e interacción haya, se generarán más visitas.
 
-- **Calificación de películas**
+- **Calificación de películas**:  Usuarios podrán exponer sus emociones, respecto a la calificación otorgada a cada título
 
-- **Ranking de películas**
-
-- **Foro**
+- **Ranking de películas**:  Información relativa a las calificaciones entregadas por los mismos usuarios.
 
 
 
 
-En este sitio web, el usuario puede crear su sesión con su respectivo login, y desde allí podrá relacionarse con los demás usuarios.
 
 # COMO VALIDAMOS EL PRODUCTO:
 Las películas de héroes enmascarados han estado ligadas al cine desde hace mucho tiempo. Muchos cineastas basaron su narrativa en historietas, pero fueron películas como Superman o Batman y más recientemente Spider-man o el Caballero oscuro, las que revelaron la magnitud del dinero que se podía hacer con este tipo de proyectos si se ejecutaban de la manera correcta. Las películas de superhéroes han despertado a un nuevo tipo de consumidor que se ve satisfecho tras presenciar la película en el cine, tener los cómics en casa, series de televisión y la especulación en internet.
