@@ -19,7 +19,7 @@ Realizado por:
 ---------------------------
 
 
-**DEMO DEL PRODUCTO** 
+**_DEMO DEL PRODUCTO_** 
 -  https://mickequeen.github.io/movieRumble  (Pages)
 -  https://github.com/mickequeen/movieRumble.git
 -------------------------------------------------------------
@@ -33,14 +33,13 @@ En este sitio web, el usuario puede crear su sesión con su respectivo login, y 
 
 Los usuarios tendrán a su alcance, esta información de varias formas:
 
-- **Ranking**: Cada usuario puede participar calificando la película según su criterio.
+- **Info de títulos**: Cada título tiene información detallada como: Resumen, personajes, historia, etc.
+
+- **Acceso a críticas de cada cinta**: Cada título tiene acceso a Ranking y Críticas de lugares certificados como _Rotten Tomatoes_ e _Internet Movie Database_.
 
 - **Foro**: Para generar debate y generar las "battles" (discusiones eternas), los usuarios podrán exponer sus ideas. Entre más battles e interacción haya, se generarán más visitas.
 
-- **Calificación de películas**:  Usuarios podrán exponer sus emociones, respecto a la calificación otorgada a cada título
-
-- **Ranking de películas**:  Información relativa a las calificaciones entregadas por los mismos usuarios.
-
+- **Calificación de películas**: Usuarios podrán exponer sus emociones, por medio de la calificación otorgada a cada título o cinta.
 
 
 
