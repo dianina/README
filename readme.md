@@ -1,7 +1,7 @@
 PROYECTO:   MovieRumble v.1.0 
 =============================
-(Enero de 2017)
-===============
+**(Enero de 2017)**
+
 
 Realizado por:
 --------------
@@ -17,7 +17,8 @@ Realizado por:
 **Natalia Arancibia**
 
 
-DEMO DEL PRODUCTO:  https://mickequeen.github.io/movieRumble
+DEMO DEL PRODUCTO:  https://mickequeen.github.io/movieRumble  (Pages)
+										https://github.com/mickequeen/movieRumble.git
 -------------------------------------------------------------
 
 PRODUCTO:
