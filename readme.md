@@ -17,7 +17,7 @@ Realizado por:
 **Natalia Arancibia**
 
 
-DEMO DEL PRODUCTO:  [https://mickequeen.github.io/movieRumble] https://mickequeen.github.io/movieRumble
+DEMO DEL PRODUCTO:  https://mickequeen.github.io/movieRumble
 -------------------------------------------------------------
 
 PRODUCTO:
