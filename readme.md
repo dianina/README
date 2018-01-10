@@ -25,6 +25,12 @@ Los usuarios tendrán a su alcance, esta información de varias formas:
 
 - Foro: Para generar debate y generar las "battles" (discusiones eternas), los usuarios podrán exponer sus ideas. Entre más battles e interacción haya, se generarán más visitas.
 
+- Calificación de películas
+
+- Ranking de películas
+
+- Foro
+
 En este sitio web, el usuario puede crear su sesión con su respectivo login, y desde allí podrá relacionarse con los demás usuarios.
 
 # VALIDACION DE LA IDEA:
@@ -43,7 +49,10 @@ Proveeremos la información más completa de cada producción cinematográfica, 
 
 **Destacar emociones**: El usuario podrá manifestar sus emociones calificando las películas (puntuación estrellas) y además, aportando información adicional en la herramienta de foro.
 
-# FORMATO A ENTREGAR: Producto web. Versión mobile y escritorio.
+# FORMATO A ENTREGAR: 
+Producto web. Versión mobile y escritorio.
+
+# TRABAJO PREVIO:  SKETCHES
 
 Sketch primera vista del producto:
 ![Primera vista Sketch](/primeravista.jpeg)
@@ -56,45 +65,56 @@ Sketch Modal para Login:
 # FLUJO DE LA APLICACION
 
 
-# VISTA GENERAL
+VISTA GENERAL
+-------------
+
 ![Pagina General] (https://i.imgur.com/a/m6Gcy)
 
 Flujo una vez usuario está logueado (**LOG IN**)
 
-# VISTA USUARIO REGISTRADO
+VISTA USUARIO REGISTRADO
+------------------------
 ![Menu Login] (https://i.imgur.com/a/PGOgO)
 
 Ya ingresado a su sesión, el usuario podrá acceder a la funcionalidad completa de la página:
 - Información seleccionada sobre las diferentes "Battles" entre películas (vs).
 
-# VISTA USUARIO REGISTRADO CON UTILIDADES DEL PRODUCTO
+VISTA USUARIO REGISTRADO CON UTILIDADES DEL PRODUCTO
+----------------------------------------------------
 ![Opciones de usuario] (https://i.imgur.com/a/FswX3)
 
 ![Comentarios] (https://i.imgur.com/a/tM3fS)
 
-- Calificación de películas
-- Ranking de películas
-- Foro
+
 
 # TRABAJO EN EQUIPO
 
-# ORGANIZACION
--  Definir perfiles:  UX DESIGNER -FRONT END
+ORGANIZACION
+------------
+
+- Definir perfiles en los integrantes del equipo: UX DESIGNER -FRONT END
 
 # DIVISION DEL TRABAJO
-****Labor por alumna****
 
-# LABOR FRONT-END
-Carol Martínez:
+**Perfil por alumna**
+
+PERFIL FRONT-END
+----------------
+
+**Carol Martínez:**
 - Implementación y desarrollo de API OMDd (Base de Datos)
 
-Lorena Palominos:
+**Lorena Palominos:**
 - Implementación y desarrollo de Firebase (Plataforma para el desarrollo de Aplicaciones) y Modal de Login.
 
-# LABOR UX DESIGNER
-Natalia Arancibia - Diana Chaparro
+PERFIL UX DESIGNER
+------------------
+
+**Natalia Arancibia - Diana Chaparro**
+
 - Diseño y Maquetado (estructura del producto).
 - Investigación de producto.
+- Elaboración de README.
 
 
 
