@@ -30,22 +30,22 @@ PRODUCTO:
 Desarrollamos un producto digital que ayude a los amantes de las casas editoriales Marvel y DC, a obtener información sobre sus producciones cinematográficas. Como los personajes e historias homólogas de cada casa editorial, siempre han generado diferencias entre sus fans, nuestro objetivo es contraponer la información contextualizada y filtrada de cada historia.
 Los usuarios tendrán a su alcance, esta información de varias formas:
 
-- Ranking: Cada usuario puede participar calificando la película según su criterio.
+- **Ranking**: Cada usuario puede participar calificando la película según su criterio.
 
-- Foro: Para generar debate y generar las "battles" (discusiones eternas), los usuarios podrán exponer sus ideas. Entre más battles e interacción haya, se generarán más visitas.
+- **Foro**: Para generar debate y generar las "battles" (discusiones eternas), los usuarios podrán exponer sus ideas. Entre más battles e interacción haya, se generarán más visitas.
 
-- Calificación de películas
+- **Calificación de películas**
 
-- Ranking de películas
+- **Ranking de películas**
 
-- Foro
+- **Foro**
 
 En este sitio web, el usuario puede crear su sesión con su respectivo login, y desde allí podrá relacionarse con los demás usuarios.
 
 # COMO VALIDAMOS EL PRODUCTO:
 Las películas de héroes enmascarados han estado ligadas al cine desde hace mucho tiempo. Muchos cineastas basaron su narrativa en historietas, pero fueron películas como Superman o Batman y más recientemente Spider-man o el Caballero oscuro, las que revelaron la magnitud del dinero que se podía hacer con este tipo de proyectos si se ejecutaban de la manera correcta. Las películas de superhéroes han despertado a un nuevo tipo de consumidor que se ve satisfecho tras presenciar la película en el cine, tener los cómics en casa, series de televisión y la especulación en internet.
 
-Entonces, ya un mercado existente, con una necesidad concreta y es un nicho rentable.
+Entonces, ya un mercado existente, con una necesidad concreta y es un **nicho rentable**.
 
 # OBJETIVOS:
 Proveer información filtrada y especializada a los fanáticos de las casas editoriales Marvel y DC, y generar una sana interacción entre ellos.
@@ -67,7 +67,6 @@ Sketches elaborados en el proyecto:
 
 ![Primera vista Sketch] (https://i.imgur.com/a/zJfmR)
 
-Sketch Modal para Login:
 ![Login Sketch] (https://i.imgur.com/a/pVgZy)
 
 
@@ -107,10 +106,9 @@ ORGANIZACION
 DIVISION DEL TRABAJO
 --------------------
 
-**Perfil por alumna**
 
-PERFIL FRONT-END
-----------------
+##PERFIL FRONT-END##
+
 
 **Carol Martínez:**
 - Implementación y desarrollo de API OMDd (Base de Datos)
@@ -118,8 +116,8 @@ PERFIL FRONT-END
 **Lorena Palominos:**
 - Implementación y desarrollo de Firebase (Plataforma para el desarrollo de Aplicaciones) y Modal de Login.
 
-PERFIL UX DESIGNER
-------------------
+##PERFIL UX DESIGNER##
+
 
 **Natalia Arancibia - Diana Chaparro**
 
