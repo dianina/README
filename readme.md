@@ -58,8 +58,12 @@ Proveeremos la información más completa de cada producción cinematográfica, 
 
 **Destacar emociones**: El usuario podrá manifestar sus emociones calificando las películas (puntuación estrellas) y además, aportando información adicional en la herramienta de foro.
 
+
+
 # FORMATO A ENTREGAR: 
 Producto web. Versión mobile y escritorio.
+
+
 
 # TRABAJO PREVIO: SKETCHES
 
@@ -79,7 +83,9 @@ VISTA GENERAL
 
 ![Pagina General] (https://i.imgur.com/a/m6Gcy)
 
-Flujo una vez usuario está logueado (**LOG IN**)
+Flujo una vez usuario está logueado **"LOG IN"**
+
+
 
 VISTA USUARIO REGISTRADO
 ------------------------
@@ -107,7 +113,7 @@ DIVISION DEL TRABAJO
 --------------------
 
 
-##PERFIL FRONT-END##
+## PERFIL FRONT-END ##
 
 
 **Carol Martínez:**
@@ -116,7 +122,7 @@ DIVISION DEL TRABAJO
 **Lorena Palominos:**
 - Implementación y desarrollo de Firebase (Plataforma para el desarrollo de Aplicaciones) y Modal de Login.
 
-##PERFIL UX DESIGNER##
+## PERFIL UX DESIGNER ##
 
 
 **Natalia Arancibia - Diana Chaparro**
