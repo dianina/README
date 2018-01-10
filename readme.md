@@ -1,4 +1,4 @@
-PROYECTO:   MovieRumble v.1.0     **(Enero de 2017)**
+PROYECTO:   MovieRumble v.1.0     
 =============================
 
 
@@ -17,7 +17,8 @@ Realizado por:
 **Natalia Arancibia**
 
 
-DEMO DEL PRODUCTO:  
+
+**DEMO DEL PRODUCTO: ** 
 -  https://mickequeen.github.io/movieRumble  (Pages)
 -  https://github.com/mickequeen/movieRumble.git
 -------------------------------------------------------------
@@ -40,7 +41,7 @@ Los usuarios tendrán a su alcance, esta información de varias formas:
 
 En este sitio web, el usuario puede crear su sesión con su respectivo login, y desde allí podrá relacionarse con los demás usuarios.
 
-# VALIDACION DE LA IDEA:
+# COMO VALIDAMOS EL PRODUCTO:
 Las películas de héroes enmascarados han estado ligadas al cine desde hace mucho tiempo. Muchos cineastas basaron su narrativa en historietas, pero fueron películas como Superman o Batman y más recientemente Spider-man o el Caballero oscuro, las que revelaron la magnitud del dinero que se podía hacer con este tipo de proyectos si se ejecutaban de la manera correcta. Las películas de superhéroes han despertado a un nuevo tipo de consumidor que se ve satisfecho tras presenciar la película en el cine, tener los cómics en casa, series de televisión y la especulación en internet.
 
 Entonces, ya un mercado existente, con una necesidad concreta y es un nicho rentable.
@@ -62,7 +63,7 @@ Producto web. Versión mobile y escritorio.
 # TRABAJO PREVIO:  SKETCHES
 
 Sketch primera vista del producto:
-![Primera vista Sketch](https://imgur.com/a/zJfmR)
+![Primera vista Sketch] (https://i.imgur.com/a/zJfmR)
 
 Sketch Modal para Login:
 ![Login Sketch](/modal.jpg)
@@ -124,6 +125,7 @@ PERFIL UX DESIGNER
 - Investigación de producto.
 - Elaboración de README.
 
+**(Enero de 2017)**
 
 
 
