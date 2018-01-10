@@ -21,7 +21,7 @@ Realizado por:
 
 **_DEMO DEL PRODUCTO_** 
 -  https://mickequeen.github.io/movieRumble  (Pages)
--  https://github.com/mickequeen/movieRumble.git
+-  https://github.com/mickequeen/movieRumble.git (Github)
 -------------------------------------------------------------
 
 PRODUCTO:
@@ -35,7 +35,11 @@ Los usuarios tendrán a su alcance, esta información de varias formas:
 
 - **Info de títulos**: Cada título tiene información detallada como: Resumen, personajes, historia, etc.
 
+![Vista de info de títulos] (https://i.imgur.com/a/CpCoh)
+
 - **Acceso a críticas de cada cinta**: Cada título tiene acceso a Ranking y Críticas de lugares certificados como _Rotten Tomatoes_ e _Internet Movie Database_.
+
+![Vista críticas de cada cinta] (https://i.imgur.com/a/YOy9m)
 
 - **Foro**: Para generar debate y generar las "battles" (discusiones eternas), los usuarios podrán exponer sus ideas. Entre más battles e interacción haya, se generarán más visitas.
 
