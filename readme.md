@@ -35,7 +35,7 @@ Los usuarios tendrán a su alcance, esta información de varias formas:
 
 - **Info de títulos**: Cada título tiene información detallada como: Resumen, personajes, historia, etc.
 
-![Vista de info de títulos] (https://i.imgur.com/a/CpCoh)
+![Vista de info de títulos](https://drive.google.com/file/d/1EzpeHr5WvOiKRMjwziPeem2_FABgtsJ6/view?usp=sharing)
 
 - **Acceso a críticas de cada cinta**: Cada título tiene acceso a Ranking y Críticas de lugares certificados como _Rotten Tomatoes_ e _Internet Movie Database_.
 
