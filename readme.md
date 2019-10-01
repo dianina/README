@@ -20,8 +20,8 @@ Realizado por:
 
 
 **_DEMO DEL PRODUCTO_** 
--  https://mickequeen.github.io/movieRumble  (Pages)
--  https://github.com/mickequeen/movieRumble.git (Github)
+- [Pages](https://mickequeen.github.io/movieRumble)
+- [Github](https://github.com/mickequeen/movieRumble.git)
 -------------------------------------------------------------
 
 PRODUCTO:
@@ -38,11 +38,11 @@ Los usuarios tendrán a su alcance, esta información de varias formas:
 
 - **Info de títulos**: Cada título tiene información detallada como: Resumen, personajes, historia, etc.
 
-![Vista de info de títulos] (https://i.imgur.com/tqXrdlQ.png)
+![Vista de info de títulos](https://i.imgur.com/tqXrdlQ.png)
 
 - **Acceso a críticas de cada cinta**: Cada título tiene acceso a Ranking y Críticas de lugares certificados como _Rotten Tomatoes_ e _Internet Movie Database_.
 
-![Vista críticas de cada cinta] (https://i.imgur.com/a/YOy9m)
+![Vista críticas de cada cinta](https://i.imgur.com/tqXrdlQ.png)
 
 - **Foro**: Para generar debate y generar las "battles" (discusiones eternas), los usuarios podrán exponer sus ideas. Entre más battles e interacción haya, se generarán más visitas.
 
@@ -84,11 +84,11 @@ Producto web. Versión mobile y escritorio.
 
 Sketches elaborados en el proyecto:
 
-![Idea Inicial] (https://i.imgur.com/a/x8hCX)
+![Idea Inicial](https://i.imgur.com/97fFc8X.jpg)
 
-![Primera vista Sketch] (https://i.imgur.com/a/zJfmR)
+![Primera vista Sketch](https://i.imgur.com/xKCztYf.jpg)
 
-![Login Sketch] (https://i.imgur.com/a/pVgZy)
+![Login Sketch](https://i.imgur.com/zOj8ebh.jpg)
 
 
 
@@ -100,7 +100,7 @@ Sketches elaborados en el proyecto:
 VISTA GENERAL
 -------------
 
-![Pagina General] (https://i.imgur.com/a/m6Gcy)
+![Pagina General](https://i.imgur.com/myAXo39.jpg)
 
 Flujo una vez usuario está logueado **"LOG IN"**
 
@@ -108,7 +108,7 @@ Flujo una vez usuario está logueado **"LOG IN"**
 
 VISTA USUARIO REGISTRADO
 ------------------------
-![Menu Login] (https://i.imgur.com/a/PGOgO)
+![Menu Login](https://i.imgur.com/N9PHp0r.jpg)
 
 Ya ingresado a su sesión, el usuario podrá acceder a la funcionalidad completa de la página:
 - Información seleccionada sobre las diferentes "Battles" entre películas, año de realización, reseña del título (vs).
@@ -120,9 +120,9 @@ Ya ingresado a su sesión, el usuario podrá acceder a la funcionalidad completa
 
 VISTA USUARIO REGISTRADO CON UTILIDADES DEL PRODUCTO
 ----------------------------------------------------
-![Opciones de usuario] (https://i.imgur.com/a/FswX3)
+![Opciones de usuario](https://i.imgur.com/VsDp4dF.jpg)
 
-![Comentarios] (https://i.imgur.com/a/tM3fS)
+![Comentarios](https://i.imgur.com/9hlgBz8.jpg)
 
 
 
